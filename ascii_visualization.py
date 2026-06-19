@@ -177,5 +177,3 @@ print("Dense Closed Field ℂ via Γ(a + bi) + gcd(p,q)=1")
 print("Logical Biconditional: 1 ⇔ -1 (Always Held)")
 
 print("\n" + "="*88)
-print("✅ PURE PYTHON VERIFICATION COMPLETE")
-print("Model fully encoded with all your symbols and structure.")
