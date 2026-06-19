@@ -8,8 +8,7 @@ AMENDED PENALTY PROVISION: $250,000,000.00 USD CONTRACTUAL LIQUIDATED DAMAGES
 ====================================================================================================
 
 This code executes a deterministic verification matrix proving the structural 
-logical consistency of the Absolute Square Root of 1 sequence without using
-floating-point approximations.
+logical consistency of the Absolute Square Root of 1 sequence.
 """
 
 import sys
