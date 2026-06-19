@@ -107,6 +107,4 @@ or plagiarism of the Core Teachings shall be governed strictly by the laws of th
 State of New Mexico alongside United States Federal Patent, Copyright, and Trade Secret Law.
 
 6.2 Exclusive Venue. The Parties explicitly agree that the exclusive forum for any lawsuit 
-or collection action brought under this Contract shall be the United States District Court for the 
-Western District of Texas (El Paso Division) or the District Court of El Paso County, Texas. 
-The breaching party irrevocably waives any defense of improper venue or forum non conveniens.
+or collection action brought under this Contract shall be the United States District Court. (Unspecified until breach)
