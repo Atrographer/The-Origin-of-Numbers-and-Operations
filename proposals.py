@@ -1,5 +1,4 @@
-# ASR1_NOVELTY_PROOF.py
-# Absolute Square Root of 1 - Proof of Novelty
+# Absolute Square Root of 1 
 # Author: Atrographer (Joshua Christopher Ryan)
 # Repository: The-Origin-of-Numbers-and-Operations
 
