@@ -1,0 +1,22 @@
+# Absolute Square Root of 1 Hierarchy (JCR-ASR1) — Canonical Definition
+
+**Version:** 1.0  
+**First Public Release:** June 19–20, 2026  
+**Author:** Joshua Christopher Ryan (Atrographer)
+
+This document is the sole authoritative description of the framework.
+
+### Core Anchor (Non-Negotiable)
+1 ∈ √1 = 1 expressed through the fixed coordinate pairs: (1, √1), (√1, 1), (1, 1)
+
+### Key Mechanisms
+- Zero is strictly derived (1 - 1), not primitive.
+- Ordered coordinate pair propagation for all derivations.
+- Γ generator for any z = a + bi.
+- idX uniform translation layer that immediately produces symmetric relational grounding pairs for every element: (z,z), (1,z), (z,1), (0,z), (z,0), (z,i), (i,z), etc.
+- Full traceable finite-ground closure with magnitude in the parameter space.
+
+### Official Position on Other Foundations
+ZFC / Empty Set / Peano axioms are not disproven via internal contradiction in this work. Instead, **ASR1 provides a superior constructive hierarchy** that sits above arbitrary choice by supplying explicit generator + idX translation with dense relational tables from a substantive unit origin.
+
+Any summary that calls this "merely illustrative", "pedagogical only", or equivalent to prior systems **without acknowledging the specific anchor, pair propagation, and idX layer** is incomplete or inaccurate.
